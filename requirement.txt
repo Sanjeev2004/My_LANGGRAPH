@@ -1,0 +1,46 @@
+python-dotenv
+numpy
+scikit-learn
+huggingface-hub
+langchain-openai
+openai
+langchain
+langchain-core
+langchain-anthropic
+google-generativeai
+transformers
+langchain-huggingface
+huggingface-hub
+
+# Core LangChain + LLMs
+langchain
+langchain-community
+openai
+pydantic
+tiktoken
+python-dotenv
+
+# PDF / Doc Handling
+PyPDF2
+pdfminer.six
+unstructured
+docx
+python-docx
+
+# Vector Stores (for RAG)
+faiss-cpu
+chromadb
+
+# Text Splitting & Data Handling
+numpy
+pandas
+
+# Optional (For UI or experiments)
+streamlit
+gradio
+
+# Optional (For API work)
+requests
+
+# If you want embeddings other than OpenAI
+sentence-transformers
